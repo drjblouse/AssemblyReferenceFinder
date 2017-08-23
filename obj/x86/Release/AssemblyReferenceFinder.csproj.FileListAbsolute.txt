@@ -1,0 +1,24 @@
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\bin\Release\AssemblyReferenceFinder.exe
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\bin\Release\AssemblyReferenceFinder.pdb
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\ResolveAssemblyReference.cache
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\MainWindow.baml
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\MainWindow.g.cs
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\App.g.cs
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder_MarkupCompile.cache
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.g.resources
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.Properties.Resources.resources
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\GenerateResource.read.1.tlog
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\GenerateResource.write.1.tlog
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.exe
+c:\users\jblouse\documents\visual studio 2010\Projects\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.pdb
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.exe
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.pdb
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\bin\Release\AssemblyReferenceFinder.exe
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\bin\Release\AssemblyReferenceFinder.pdb
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\MainWindow.baml
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\MainWindow.g.cs
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\App.g.cs
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder_MarkupCompile.cache
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.g.resources
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.Properties.Resources.resources
+C:\AssemblyReferenceFinder\AssemblyReferenceFinder\obj\x86\Release\AssemblyReferenceFinder.csproj.GenerateResource.Cache
